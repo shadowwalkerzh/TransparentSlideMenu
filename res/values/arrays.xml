@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 菜单项名称数组 -->
+    <string-array name="menu_item_array">
+        <item>第一页</item>
+        <item>第二页</item>
+        <item>第三页</item>
+        <item>第四页</item>
+        <item>第五页</item>
+        <item>第六页</item>
+        <item>第七页</item>
+        <item>第八页</item>
+        <item>第九页</item>
+        <item>第十页</item>
+    </string-array>
+
+    <!-- 菜单项名称数组 -->
+    <string-array name="menu_icon_array">
+        <item>icon_main_menu</item>
+        <item>icon_main_menu</item>
+        <item>ic_launcher</item>
+        <item>icon_main_menu</item>
+        <item>ic_launcher</item>
+        <item>icon_main_menu</item>
+        <item>icon_main_menu</item>
+        <item>icon_main_menu</item>
+        <item>ic_launcher</item>
+        <item>icon_main_menu</item>
+    </string-array>
+
+    <!-- 菜单项对应的fragment数组 -->
+    <string-array name="menu_fragment_array">
+        <item>MenuFragment</item>
+        <item>MenuFragment1</item>
+        <item>MenuFragment2</item>
+        <item>MenuFragment3</item>
+        <item>MenuFragment4</item>
+        <item>MenuFragment5</item>
+        <item>MenuFragment6</item>
+        <item>MenuFragment7</item>
+        <item>MenuFragment8</item>
+        <item>MenuFragment9</item>
+    </string-array>
+
+    <integer-array name="menu_Item_num_array">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+
+</resources>
